@@ -1,0 +1,83 @@
+BcGH28_1	65	373	Glyco_hydro_28
+BcGH28_2	119	394	Glyco_hydro_28
+BcGH28_3	62	369	Glyco_hydro_28
+BcGH28_4	55	426	Glyco_hydro_28
+BcGH28_5	142	431	Glyco_hydro_28
+BcGH28_6	90	423	Glyco_hydro_28
+BdGH28_1	62	365	Glyco_hydro_28
+BdGH28_10	55	426	Glyco_hydro_28
+BdGH28_11	77	395	Glyco_hydro_28
+BdGH28_2	119	394	Glyco_hydro_28
+BdGH28_3	46	367	Glyco_hydro_28
+BdGH28_4	90	423	Glyco_hydro_28
+BdGH28_5	65	373	Glyco_hydro_28
+BdGH28_6	68	409	Glyco_hydro_28
+BdGH28_7	26	249	Glyco_hydro_28
+BdGH28_8	142	431	Glyco_hydro_28
+BdGH28_9	79	390	Glyco_hydro_28
+BfGH28_1	65	373	Glyco_hydro_28
+BfGH28_2	55	426	Glyco_hydro_28
+BfGH28_3	142	431	Glyco_hydro_28
+BfGH28_4	119	394	Glyco_hydro_28
+BfGH28_5	62	369	Glyco_hydro_28
+BqGH28_1	55	426	Glyco_hydro_28
+BqGH28_2	119	394	Glyco_hydro_28
+BqGH28_3	46	367	Glyco_hydro_28
+BqGH28_4	65	373	Glyco_hydro_28
+BqGH28_5	68	409	Glyco_hydro_28
+BqGH28_6	142	431	Glyco_hydro_28
+LtGH28_1	149	357	Glyco_hydro_28
+LtGH28_2	119	409	Glyco_hydro_28
+LtGH28_3	129	425	Glyco_hydro_28
+LtGH28_4	703	915	Glyco_hydro_28
+LtGH28_5	62	385	Glyco_hydro_28
+LtGH28_6	48	363	Glyco_hydro_28
+MpGH28_1	46	366	Glyco_hydro_28
+MpGH28_2	118	393	Glyco_hydro_28
+MpGH28_3	149	357	Glyco_hydro_28
+MpGH28_4	134	419	Glyco_hydro_28
+MpGH28_5	119	410	Glyco_hydro_28
+NpGH28_1	62	382	Glyco_hydro_28
+NpGH28_2	86	382	Glyco_hydro_28
+NpGH28_3	46	366	Glyco_hydro_28
+NpGH28_4	64	373	Glyco_hydro_28
+BcGH28_1	21	22	Signal peptide
+BcGH28_2	23	24	Signal peptide
+BcGH28_3	21	22	Signal peptide
+BcGH28_4	20	21	Signal peptide
+BcGH28_5	19	20	Signal peptide
+BcGH28_6	21	22	Signal peptide
+BdGH28_1	21	22	Signal peptide
+BdGH28_10	20	21	Signal peptide
+BdGH28_11	24	25	Signal peptide
+BdGH28_2	18	19	Signal peptide
+BdGH28_3	18	19	Signal peptide
+BdGH28_4	21	22	Signal peptide
+BdGH28_5	21	22	Signal peptide
+BdGH28_6	29	30	Signal peptide
+BdGH28_8	19	20	Signal peptide
+BdGH28_9	20	21	Signal peptide
+BfGH28_1	21	22	Signal peptide
+BfGH28_2	20	21	Signal peptide
+BfGH28_3	19	20	Signal peptide
+BfGH28_4	23	24	Signal peptide
+BfGH28_5	21	22	Signal peptide
+BqGH28_1	20	21	Signal peptide
+BqGH28_2	18	19	Signal peptide
+BqGH28_3	18	19	Signal peptide
+BqGH28_4	21	22	Signal peptide
+BqGH28_5	29	30	Signal peptide
+BqGH28_6	19	20	Signal peptide
+LtGH28_1	21	22	Signal peptide
+LtGH28_2	20	21	Signal peptide
+LtGH28_3	19	20	Signal peptide
+LtGH28_5	21	22	Signal peptide
+LtGH28_6	20	21	Signal peptide
+MpGH28_1	18	19	Signal peptide
+MpGH28_2	22	23	Signal peptide
+MpGH28_3	21	22	Signal peptide
+MpGH28_4	19	20	Signal peptide
+MpGH28_5	20	21	Signal peptide
+NpGH28_1	21	22	Signal peptide
+NpGH28_3	18	19	Signal peptide
+NpGH28_4	21	22	Signal peptide

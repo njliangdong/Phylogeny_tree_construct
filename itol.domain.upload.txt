@@ -1,0 +1,52 @@
+DATASET_DOMAINS
+SEPARATOR COMMA
+DATASET_LABEL,domain_structures
+COLOR,#ff00aa
+LEGEND_TITLE,Protein Domains
+LEGEND_SHAPES,RE,EL
+LEGEND_COLORS,#E69F00,#56B4E9
+LEGEND_LABELS,Glyco_hydro_28,Signal peptide
+DATA
+BcGH28_1,393,RE|65|373|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BcGH28_2,414,RE|119|394|#E69F00|Glyco_hydro_28,EL|23|24|#56B4E9|Signal peptide
+BcGH28_3,389,RE|62|369|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BcGH28_4,446,RE|55|426|#E69F00|Glyco_hydro_28,EL|20|21|#56B4E9|Signal peptide
+BcGH28_5,451,RE|142|431|#E69F00|Glyco_hydro_28,EL|19|20|#56B4E9|Signal peptide
+BcGH28_6,443,RE|90|423|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BdGH28_1,385,RE|62|365|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BdGH28_10,446,RE|55|426|#E69F00|Glyco_hydro_28,EL|20|21|#56B4E9|Signal peptide
+BdGH28_11,415,RE|77|395|#E69F00|Glyco_hydro_28,EL|24|25|#56B4E9|Signal peptide
+BdGH28_2,414,RE|119|394|#E69F00|Glyco_hydro_28,EL|18|19|#56B4E9|Signal peptide
+BdGH28_3,387,RE|46|367|#E69F00|Glyco_hydro_28,EL|18|19|#56B4E9|Signal peptide
+BdGH28_4,443,RE|90|423|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BdGH28_5,393,RE|65|373|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BdGH28_6,429,RE|68|409|#E69F00|Glyco_hydro_28,EL|29|30|#56B4E9|Signal peptide
+BdGH28_7,269,RE|26|249|#E69F00|Glyco_hydro_28
+BdGH28_8,451,RE|142|431|#E69F00|Glyco_hydro_28,EL|19|20|#56B4E9|Signal peptide
+BdGH28_9,410,RE|79|390|#E69F00|Glyco_hydro_28,EL|20|21|#56B4E9|Signal peptide
+BfGH28_1,393,RE|65|373|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BfGH28_2,446,RE|55|426|#E69F00|Glyco_hydro_28,EL|20|21|#56B4E9|Signal peptide
+BfGH28_3,451,RE|142|431|#E69F00|Glyco_hydro_28,EL|19|20|#56B4E9|Signal peptide
+BfGH28_4,414,RE|119|394|#E69F00|Glyco_hydro_28,EL|23|24|#56B4E9|Signal peptide
+BfGH28_5,389,RE|62|369|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BqGH28_1,446,RE|55|426|#E69F00|Glyco_hydro_28,EL|20|21|#56B4E9|Signal peptide
+BqGH28_2,414,RE|119|394|#E69F00|Glyco_hydro_28,EL|18|19|#56B4E9|Signal peptide
+BqGH28_3,387,RE|46|367|#E69F00|Glyco_hydro_28,EL|18|19|#56B4E9|Signal peptide
+BqGH28_4,393,RE|65|373|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+BqGH28_5,429,RE|68|409|#E69F00|Glyco_hydro_28,EL|29|30|#56B4E9|Signal peptide
+BqGH28_6,451,RE|142|431|#E69F00|Glyco_hydro_28,EL|19|20|#56B4E9|Signal peptide
+LtGH28_1,377,RE|149|357|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+LtGH28_2,429,RE|119|409|#E69F00|Glyco_hydro_28,EL|20|21|#56B4E9|Signal peptide
+LtGH28_3,445,RE|129|425|#E69F00|Glyco_hydro_28,EL|19|20|#56B4E9|Signal peptide
+LtGH28_4,935,RE|703|915|#E69F00|Glyco_hydro_28
+LtGH28_5,405,RE|62|385|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+LtGH28_6,383,RE|48|363|#E69F00|Glyco_hydro_28,EL|20|21|#56B4E9|Signal peptide
+MpGH28_1,386,RE|46|366|#E69F00|Glyco_hydro_28,EL|18|19|#56B4E9|Signal peptide
+MpGH28_2,413,RE|118|393|#E69F00|Glyco_hydro_28,EL|22|23|#56B4E9|Signal peptide
+MpGH28_3,377,RE|149|357|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+MpGH28_4,439,RE|134|419|#E69F00|Glyco_hydro_28,EL|19|20|#56B4E9|Signal peptide
+MpGH28_5,430,RE|119|410|#E69F00|Glyco_hydro_28,EL|20|21|#56B4E9|Signal peptide
+NpGH28_1,402,RE|62|382|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
+NpGH28_2,402,RE|86|382|#E69F00|Glyco_hydro_28
+NpGH28_3,386,RE|46|366|#E69F00|Glyco_hydro_28,EL|18|19|#56B4E9|Signal peptide
+NpGH28_4,393,RE|64|373|#E69F00|Glyco_hydro_28,EL|21|22|#56B4E9|Signal peptide
